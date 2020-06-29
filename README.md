@@ -1,5 +1,7 @@
 ## Prestamos
 
+Calculos de prestamos 
+
 creado con el curso: JavaScript Moderno Guía Definitiva Construye +10 Proyectos
 
 Lo puedes ver en: https://elastic-joliot-261c8e.netlify.app
